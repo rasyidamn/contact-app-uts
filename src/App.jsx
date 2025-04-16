@@ -20,7 +20,7 @@ function App() {
     // app contact list
 
     <div className="min-h-screen w-full bg-slate-950 py-12 px-12 font-mono">
-      <h1 className="text-4xl font-mono font-black text-center  bg-clip-text text-transparent bg-gradient-to-b from-emerald-500 to-cyan-500 mb-4">
+      <h1 className="text-4xl min-w-[300px] font-mono font-black text-center mx-auto  bg-clip-text text-transparent bg-gradient-to-b from-emerald-500 to-cyan-500 mb-4">
         Contact List
       </h1>
 
