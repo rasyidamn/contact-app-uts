@@ -53,7 +53,7 @@ function App() {
             d="M5 12h14m-7 7V5"
           />
         </svg>
-        <span className="">Tambah Kontak</span>
+        <span className="text-sm font-bold md:text-xl">Tambah Kontak</span>
       </button>
     </div>
   );
